@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "ecfd1c695188a926",
+    "type": "split",
+    "children": [
+      {
+        "id": "4816111040e9682b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd4a88943790ee5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🟢 Easy/374. Guess Number Higher or Lower.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdb50db45475131d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5502b5a8d392906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90c7e8fad7665835",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f7946c82deaf4f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2d5836724184484",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5661ecdc8e2b65e",
+    "type": "split",
+    "children": [
+      {
+        "id": "61fb83f5745dc87c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51a6f48c0cf97812",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🟢 Easy/374. Guess Number Higher or Lower.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f4bf34ce8057f1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🟢 Easy/374. Guess Number Higher or Lower.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4123ebb003579f9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b9dddad8a092e21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🟢 Easy/374. Guess Number Higher or Lower.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "90c7e8fad7665835",
+  "lastOpenFiles": [
+    "🟢 Easy/101. Symmetric Tree.md",
+    "🟢 Easy/374. Guess Number Higher or Lower.md",
+    "🟠 Normal/763. Partition Labels.md",
+    "🟢 Easy/1. Two Sum.md",
+    "🟢 Easy/206. Reverse Linked List.md",
+    "Media/Pasted image 20240827004312.png",
+    "Media",
+    "Media/Pasted image 20240827004328.png",
+    "🟠 Normal/424. Longest Repeating Character Replacement.md",
+    "🟠 Normal/200. Number of Islands.md",
+    "🟢 Easy/11. Container With Most Water.md",
+    "🟠 Normal/56. Merge Intervals.md",
+    "🟢 Easy/121. Best Time to Buy and Sell Stock.md",
+    "🟢 Easy/20. Valid Parentheses.md",
+    "🟢 Easy/704. Binary Search.md",
+    "🟢 Easy/100. Same Tree.md",
+    "🟢 Easy/141. Linked List Cycle.md",
+    "Без названия 1",
+    "🟢 Easy/136. Single Number.md",
+    "README.md",
+    "🟠 Normal",
+    "🟢 Easy",
+    "🔴 Hard"
+  ]
+}
